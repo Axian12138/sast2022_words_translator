@@ -77,7 +77,6 @@ def make_set(index, args):
     out_filename0 = os.path.join(args.basedir,args.outname + f'_untrans_{index}.txt')
     out_filename1 = os.path.join(args.basedir,args.outname + f'_translated_{index}.txt')
     words = np.asarray(list(filter(None, open(in_filename,'r').read().split("\n"))))
-    print('loadsord')
     try:
         length , start, num = args.length , args.start, args.num
         if start + length > len(words):
@@ -89,8 +88,9 @@ def make_set(index, args):
             words = np.random.choice(words, size=[num],replace=False)
         else:
             words = words[:num]
-        print("collection word",words.size)
+        print("collecting word",words.size)
 
+        #写入未翻译words
         with open(out_filename0, "w") as f:
             for idx, each in enumerate(words):
                     similar_words = each.split(",")
@@ -103,11 +103,11 @@ def make_set(index, args):
         translator = Translator(service_urls=[
             'translate.google.cn'
         ])
-
+        # 写入words & translated words
         with open(out_filename1, "w") as f:
             for i in tqdm(range(num)):
                 similar_words = words[i].split(",")
-                print(similar_words)
+                print('', similar_words)
                 f.write(f"{i}:\t ")
                 for word in similar_words:
                     try:
