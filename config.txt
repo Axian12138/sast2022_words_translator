@@ -1,0 +1,8 @@
+basedir=./logs/
+datadir=./
+outname=my_review_words
+num=50
+r=True
+start=0
+length=50
+batch=1
