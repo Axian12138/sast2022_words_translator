@@ -3,7 +3,7 @@
 a navie script for words-translation
 
 ## Installation
-- Clone this repo by `git clone https://git.tsinghua.edu.cn/xue-h21/sast2022_words_review`
+- Clone this repo by `git clone https://github.com/Axian12138/sast2022_words_translator`
 - Python>=3.6 (installation via anaconda is recommended, use `conda create -n words_review python=3.9` to create a conda environment and activate it by `conda activate words_review`)
 - Python libraries
     - Install core requirements by `pip install -r requirements.txt`
