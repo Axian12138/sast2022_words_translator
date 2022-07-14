@@ -9,7 +9,7 @@ a navie script for words-translation
     - Install core requirements by `pip install -r requirements.txt`
 
 ## running
-If you have completed the installation. Then, for example:
+If you have completed the installation. `cd sast2022_words_translator` Then, 
 
 `python run.py --config config.txt`  config.txt中保存希望的参数，可参照当前路径下的config.txt
 
