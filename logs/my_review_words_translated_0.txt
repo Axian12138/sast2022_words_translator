@@ -1,0 +1,50 @@
+0:	 essence:本质 
+1:	 pastel:柔和  bland:之中 
+2:	 underscore:下划线 
+3:	 topography :地形 
+4:	 husk:记住 
+5:	 tide sb over:潮汐SB结束  tidal :潮汐 
+6:	 pluralism :多元化 
+7:	 vagrant:流浪汉 
+8:	 incline:倾斜 
+9:	 grievous:阴谋 
+10:	 saucy:狡猾 
+11:	 disproportionate:不成比例 
+12:	 withhold:扣压 
+13:	 nosy:岛  inquisitive:好奇 
+14:	 stumble:绊倒 
+15:	 chaotic:混乱的 
+16:	 renown:名声 
+17:	 scroll:滚动 
+18:	 embrace:拥抱 
+19:	 obliterate:泯 
+20:	 colonization:殖民化 
+21:	 affiliate:会员 
+22:	 rancorous:仇恨 
+23:	 forum:论坛 
+24:	 strain:拉紧 
+25:	 mediate:调解  reconcile:调和  compose :撰写 
+26:	 exposition:博览会 
+27:	 sphere:领域 
+28:	 volcanic:火山 
+29:	 clay:粘土 
+30:	 dissolve:溶解 
+31:	 solicit:征求  solicitor:律师  solicitous:殷勤  entreat:恳求 
+32:	 pursuit:追求 
+33:	 nail:指甲 
+34:	 hail:冰雹 
+35:	 constitute:构成 
+36:	 enact:制定 
+37:	 unsubstantiated:未经证实 
+38:	 stylized:风格化 
+39:	 intrepid:强悍 
+40:	 nominee:提名人 
+41:	 lure:饵 
+42:	 revere:尊敬 
+43:	 transfigure:变形 
+44:	 secrete:分泌  excrete:排泄 
+45:	 intestinal:肠 
+46:	 aria:空气  melody:旋律 
+47:	 facilitate:促进  impulse:冲动 
+48:	 hydroelectric:水力发电 
+49:	 feudal:封建 

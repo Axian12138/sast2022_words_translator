@@ -1,0 +1,50 @@
+0:	 essence 
+1:	 pastel  bland 
+2:	 underscore 
+3:	 topography  
+4:	 husk 
+5:	 tide sb over  tidal  
+6:	 pluralism  
+7:	 vagrant 
+8:	 incline 
+9:	 grievous 
+10:	 saucy 
+11:	 disproportionate 
+12:	 withhold 
+13:	 nosy  inquisitive 
+14:	 stumble 
+15:	 chaotic 
+16:	 renown 
+17:	 scroll 
+18:	 embrace 
+19:	 obliterate 
+20:	 colonization 
+21:	 affiliate 
+22:	 rancorous 
+23:	 forum 
+24:	 strain 
+25:	 mediate  reconcile  compose  
+26:	 exposition 
+27:	 sphere 
+28:	 volcanic 
+29:	 clay 
+30:	 dissolve 
+31:	 solicit  solicitor  solicitous  entreat 
+32:	 pursuit 
+33:	 nail 
+34:	 hail 
+35:	 constitute 
+36:	 enact 
+37:	 unsubstantiated 
+38:	 stylized 
+39:	 intrepid 
+40:	 nominee 
+41:	 lure 
+42:	 revere 
+43:	 transfigure 
+44:	 secrete  excrete 
+45:	 intestinal 
+46:	 aria  melody 
+47:	 facilitate  impulse 
+48:	 hydroelectric 
+49:	 feudal 
