@@ -15,8 +15,6 @@ def config_parser():
     4. -l 表示用户希望复习的单词范围大小，也即从 start 开始，长度为 length
     5. -b 表示用户希望一次翻译多少单词集
     具体的边界条件请查看代码细节
-    Returns:
-        _type_: _description_
     """
     
     import configargparse
