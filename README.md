@@ -1,6 +1,6 @@
 # sast2022_words_translator
 
-a navie script for words-translation
+a navie script for words-translation  by xuehan 2021010725
 
 ## Installation
 - Clone this repo by `git clone https://github.com/Axian12138/sast2022_words_translator`
